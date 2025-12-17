@@ -19,4 +19,4 @@ Detail description.
 
 this game is about a player who gets taken into a haunted amnsion and needs to find keys to make it closer to the exit of the mansion
 
-![ running game]()
+![ running game](https://github.com/9683115-cyber/Portfolio/blob/main/images/opening.png)
